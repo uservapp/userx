@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=UserX
+Comment=UserX P2P Cryptocurrency
+Comment[fr]=UserX, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=UserX, eşten eşe kriptografik sanal para birimi
+Exec=userx-qt %u
+Terminal=false
+Type=Application
+Icon=userx128
+MimeType=x-scheme-handler/userx;
+Categories=Office;Finance;

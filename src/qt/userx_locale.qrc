@@ -1,0 +1,36 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/userx_bg.qm</file>
+        <file alias="ca">locale/userx_ca.qm</file>
+        <file alias="cs">locale/userx_cs.qm</file>
+        <file alias="da">locale/userx_da.qm</file>
+        <file alias="de">locale/userx_de.qm</file>
+        <file alias="en">locale/userx_en.qm</file>
+        <file alias="en_US">locale/userx_en_US.qm</file>
+        <file alias="eo">locale/userx_eo.qm</file>
+        <file alias="es">locale/userx_es.qm</file>
+        <file alias="es_ES">locale/userx_es_ES.qm</file>
+        <file alias="fi">locale/userx_fi.qm</file>
+        <file alias="fr_FR">locale/userx_fr_FR.qm</file>
+        <file alias="hi_IN">locale/userx_hi_IN.qm</file>
+        <file alias="hr">locale/userx_hr.qm</file>
+        <file alias="hr_HR">locale/userx_hr_HR.qm</file>
+        <file alias="it">locale/userx_it.qm</file>
+        <file alias="ja">locale/userx_ja.qm</file>
+        <file alias="ko_KR">locale/userx_ko_KR.qm</file>
+        <file alias="lt_LT">locale/userx_lt_LT.qm</file>
+        <file alias="nl">locale/userx_nl.qm</file>
+        <file alias="pl">locale/userx_pl.qm</file>
+        <file alias="pt">locale/userx_pt.qm</file>
+        <file alias="pt_BR">locale/userx_pt_BR.qm</file>
+        <file alias="ro_RO">locale/userx_ro_RO.qm</file>
+        <file alias="ru">locale/userx_ru.qm</file>
+        <file alias="sk">locale/userx_sk.qm</file>
+        <file alias="sv">locale/userx_sv.qm</file>
+        <file alias="tr">locale/userx_tr.qm</file>
+        <file alias="uk">locale/userx_uk.qm</file>
+        <file alias="vi">locale/userx_vi.qm</file>
+        <file alias="zh_CN">locale/userx_zh_CN.qm</file>
+        <file alias="zh_TW">locale/userx_zh_TW.qm</file>
+    </qresource>
+</RCC>

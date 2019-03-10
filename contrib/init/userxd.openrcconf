@@ -1,0 +1,26 @@
+# /etc/conf.d/userxd: config file for /etc/init.d/userxd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/userx/userx.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/userxd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/userxd.pid"
+
+# Where to write userxd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/userxd"
+
+# User and group to own userxd process
+#BITCOIND_USER="userx"
+#BITCOIND_GROUP="userx"
+
+# Path to userxd executable
+#BITCOIND_BIN="/usr/bin/userxd"
+
+# Nice value to run userxd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
